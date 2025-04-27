@@ -25,6 +25,6 @@ public class NumWaysParentheses {
     }
     public static void main(String[] args) {
         NumWaysParentheses vv=new NumWaysParentheses();
-        System.out.println(vv.generateParenthesis(3));
+        System.out.println(vv.generateParenthesis(4));
     }
 }
